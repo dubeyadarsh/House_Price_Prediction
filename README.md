@@ -10,4 +10,4 @@ Linear Regression has given best accuracy among all the available prediction mod
 So I have used Linear Regression.
 Accuracy of model is 84%.
 UI of website is  created using ReactJs.
-Ml model is deoployed using flask Server.
+Ml model is deployed using flask Server.
