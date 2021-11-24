@@ -6,7 +6,7 @@ https://house---price---prediction.herokuapp.com/
 
 
 ML model in this project has been build using python, 
-Linear Regression has given best accuracy from all the available prediction model.
+Linear Regression has given best accuracy among all the available prediction model.
 So I have used Linear Regression.
 Accuracy of model is 84%.
 UI of website is  created using ReactJs.
